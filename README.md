@@ -3,6 +3,9 @@
 Shortly, Rekufilter has been written to calculate optimal number of boards that can encapsulate
 given number of filters.
 
+<p align="center">
+  <img src="https://github.com/pa810p/rekufilter/assets/46489402/84f33d71-2d7e-4a4e-9473-0c4fdff008e2">
+</p>
 
 Filter mate is sold in as a roll of height equal 160cm. Man pays for multiple of 1 m² area of mate. Dimension of 1 m² of
 the mate is then 160cm x 64cm. So the customer can buy n * (160cm x 64cm) sections (later named boards for convenience).
@@ -60,6 +63,7 @@ Wasted area: ................ 5336
 Optimal number of filters: .. 42
 ####################################
 ````
+![image](https://github.com/pa810p/rekufilter/assets/46489402/b15236ed-6881-4e80-b9cf-06b232689933)
 
 ````
 ####################################
@@ -71,3 +75,8 @@ Wasted area: ................ 3688
 Optimal number of filters: .. 6
 ####################################
 ````
+![image](https://github.com/pa810p/rekufilter/assets/46489402/d7112efa-f5c0-4055-9512-16632914e23f)
+
+
+
+
