@@ -1,2 +1,2 @@
-pygame
-rectpack
+pygame==2.5.2
+rectpack==0.2.2
